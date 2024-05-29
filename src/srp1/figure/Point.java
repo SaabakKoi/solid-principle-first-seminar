@@ -1,6 +1,6 @@
 package srp1.figure;
 
-public class Point {
+public class  Point {
     private final int x;
     private final int y;
 

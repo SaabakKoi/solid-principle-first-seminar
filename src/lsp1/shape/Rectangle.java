@@ -1,6 +1,8 @@
 package lsp1.shape;
 
-public class Rectangle {
+import lsp1.Quadrilateral;
+
+public class Rectangle extends Quadrilateral {
     private int sideA;
     private int sideB;
 
